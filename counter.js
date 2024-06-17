@@ -29,26 +29,3 @@
 
 
 
-
-// class User {
-    // constructor(name, language, hitokoto) {
-    // this.name = name;
-    // this.language = language;
-    // this.hitokoto = hitokoto;
-    // }
-// }
-    
-    // const user1 = new User("Imai", "PHP", "Bye")
-    
-    // username = user1.name
-    // userlanguage = user1.language
-    // userhitokoto = user1.hitokoto
-    
-
-    // console.log(`name: ${username}`);
-    // console.log(`language: ${userlanguage}`);　テンプレートリテラル
-    // console.log(`hitokoto: ${userhitokoto}`);
-
-    // console.log(`name: ${user1.name}`);
-    // console.log(`language: ${user1.language}`);
-    // console.log(`hitokoto: ${user1.hitokoto}`);
